@@ -1,0 +1,4 @@
+isthmuslib
+pandas
+matplotlib
+jupyter
